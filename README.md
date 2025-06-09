@@ -22,7 +22,7 @@ This project focuses on analyzing retail sales data using SQL. The dataset conta
   - Sales by day of the week
 
 
-##  How to Use
+##  How to Use:
 
 1. **Create a Database**: Run the SQL script to create the database and table.
 2. **Import the Data**:
@@ -33,7 +33,7 @@ This project focuses on analyzing retail sales data using SQL. The dataset conta
    - All data cleaning, exploration, and analysis queries are in `SQL_project_query_p1.sql`.
 
 
-##  Tools Used
+##  Tools Used:
 
 - **SQL (MySQL)**
 - **CSV/Excel**
