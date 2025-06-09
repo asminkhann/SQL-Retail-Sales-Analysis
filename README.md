@@ -3,23 +3,23 @@
 This project focuses on analyzing retail sales data using SQL. The dataset contains information about customer transactions such as purchase dates, product categories, customer demographics, and sales details. The objective is to extract meaningful business insights from the data.
 
 
-## Key Business Questions Answered
+##  Key Business Questions Answered
 
- **Data Cleaning**: Identify and handle missing or incorrect data entries.
--   **1. Sales Insights**:
+-  **Data Cleaning**: Identify and handle missing or incorrect data entries.
+-  **Sales Insights**:
   - Daily, monthly, and category-wise sales
   - Customer purchasing patterns
   - Time-of-day based purchase shifts (Morning, Afternoon, Evening)
--  **2. Customer Insights**:
+-  **Customer Insights**:
   - Repeat vs. one-time customers
   - Top-spending customers
   - Customer demographics (gender, age)
--  **3. Trend Analysis**:
+- 🗓 **Trend Analysis**:
   - Best-selling month per year
   - Sales by day of the week
 
 
-## How to Use
+##  How to Use
 
 1. **Create a Database**: Run the SQL script to create the database and table.
 2. **Import the Data**:
@@ -30,17 +30,19 @@ This project focuses on analyzing retail sales data using SQL. The dataset conta
    - All data cleaning, exploration, and analysis queries are in `SQL_project_query_p1.sql`.
 
 
-## Tools Used
+##  Tools Used
 
 - **SQL (MySQL)**
 - **CSV/Excel**
 - **MySQL Workbench / DBeaver** *(optional for visualization)*
 
 
-## Contact
+##  Contact
 
 Project created by **Asmin Khan**  
 For suggestions or collaboration, feel free to reach out!
+
+
 
 
 
