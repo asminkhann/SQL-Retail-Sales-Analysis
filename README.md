@@ -6,15 +6,15 @@ This project focuses on analyzing retail sales data using SQL. The dataset conta
 ## Key Business Questions Answered
 
 - **Data Cleaning**: Identify and handle missing or incorrect data entries.
--  **Sales Insights**:
+-  **1. Sales Insights**:
   - Daily, monthly, and category-wise sales
   - Customer purchasing patterns
   - Time-of-day based purchase shifts (Morning, Afternoon, Evening)
--  **Customer Insights**:
+-  **2. Customer Insights**:
   - Repeat vs. one-time customers
   - Top-spending customers
   - Customer demographics (gender, age)
--  **Trend Analysis**:
+-  **3. Trend Analysis**:
   - Best-selling month per year
   - Sales by day of the week
 
